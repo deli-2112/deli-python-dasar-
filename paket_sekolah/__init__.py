@@ -1,0 +1,1 @@
+# Penanda bahwa folder paket_sekolah adalah sebuah Python Package
