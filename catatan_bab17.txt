@@ -1,3 +1,0 @@
-Catatan Praktikum Python Dasar - Bab 17
-Nama: Novita keren deli | Kelas: 11 SMK jurusan RPL
-Status: Berhasil menulis dan menambah isi file.
